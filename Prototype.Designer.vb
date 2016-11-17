@@ -29,16 +29,16 @@ Partial Class Main
         '
         Me.LoginScreen.BackColor = System.Drawing.Color.Transparent
         Me.LoginScreen.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.LoginScreen.Location = New System.Drawing.Point(-4, -22)
+        Me.LoginScreen.Location = New System.Drawing.Point(-4, -26)
         Me.LoginScreen.Name = "LoginScreen"
-        Me.LoginScreen.Size = New System.Drawing.Size(730, 449)
+        Me.LoginScreen.Size = New System.Drawing.Size(1280, 1024)
         Me.LoginScreen.TabIndex = 0
         '
         'Main
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(716, 413)
+        Me.ClientSize = New System.Drawing.Size(1264, 986)
         Me.Controls.Add(Me.LoginScreen)
         Me.Name = "Main"
         Me.Text = "PlayASong"

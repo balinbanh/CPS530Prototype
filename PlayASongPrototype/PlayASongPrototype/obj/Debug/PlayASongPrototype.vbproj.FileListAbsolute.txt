@@ -12,3 +12,4 @@ F:\Users\Balin Banh\Documents\CPS530Prototype\PlayASongPrototype\PlayASongProtot
 F:\Users\Balin Banh\Documents\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\bin\Debug\PlayASongPrototype.xml
 F:\Users\Balin Banh\Documents\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.exe
 F:\Users\Balin Banh\Documents\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.pdb
+F:\Users\Balin Banh\Documents\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.musicResources.resources
