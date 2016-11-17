@@ -99,10 +99,10 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="resources.Designer.vb">
+    <Compile Include="resources1.Designer.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>resources.resx</DependentUpon>
+      <DependentUpon>resources1.resx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
@@ -118,10 +118,10 @@
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="resources.resx">
+    <EmbeddedResource Include="resources1.resx">
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>resources.Designer.vb</LastGenOutput>
+      <LastGenOutput>resources1.Designer.vb</LastGenOutput>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

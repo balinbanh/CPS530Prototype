@@ -41,7 +41,7 @@ Partial Class LoginScreen
         '
         'PictureBox1
         '
-        Me.PictureBox1.Image = Global.PlayASongPrototype.My.Resources.Resources.music_notes
+        Me.PictureBox1.Image = Global.PlayASongPrototype.My.Resources.resources1.music_notes
         Me.PictureBox1.Location = New System.Drawing.Point(-1, 133)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(732, 339)

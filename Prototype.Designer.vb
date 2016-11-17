@@ -22,17 +22,29 @@ Partial Class Main
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Me.LoginScreen = New PlayASongPrototype.LoginScreen()
         Me.SuspendLayout()
+        '
+        'LoginScreen
+        '
+        Me.LoginScreen.BackColor = System.Drawing.Color.Transparent
+        Me.LoginScreen.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.LoginScreen.Location = New System.Drawing.Point(-4, -22)
+        Me.LoginScreen.Name = "LoginScreen"
+        Me.LoginScreen.Size = New System.Drawing.Size(730, 449)
+        Me.LoginScreen.TabIndex = 0
         '
         'Main
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(716, 413)
+        Me.Controls.Add(Me.LoginScreen)
         Me.Name = "Main"
         Me.Text = "PlayASong"
         Me.ResumeLayout(False)
 
     End Sub
 
+    Friend WithEvents LoginScreen As LoginScreen
 End Class
